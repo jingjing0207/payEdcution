@@ -65,7 +65,10 @@
     height: 50px;
     font-size: 30px;
     position: absolute;
-    margin-top: 37px;
-    margin-left: 100px;
+    margin-top: 3.5%;
+    margin-left: 7.5%;
 
+}
+.live-list-img{
+    height:124px;
 }

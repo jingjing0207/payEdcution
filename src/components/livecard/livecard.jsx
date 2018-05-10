@@ -22,7 +22,7 @@ class Livecard extends Component{
                         return(
                             <li key={item.key} onClick={this.govideodetil.bind(this,item.key)}>
                                 <b className="play-c"><Icon type="play-circle-o" /></b>
-                                <img src={item.src} alt=""/>
+                                <img className="live-list-img" src={item.src} alt=""/>
                                <div className="livecard-foot">
                                   <div className="hert-c"><Icon type="heart-o" /></div>
                                   <div className="share-c"><Icon type="share-alt" /></div>

@@ -83,11 +83,13 @@
 .info-list .title {
     line-height: 18px;
     overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 .p-list li {
     margin-bottom: 4px;
 }
-.info-list .title a {
+.info-list .title {
     font-size: 14px;
     color: #333;
     text-decoration: none;
@@ -97,6 +99,8 @@
     max-height: 18px;
     font-size: 12px;
     overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 .info-list li {
     line-height: 18px;

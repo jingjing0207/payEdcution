@@ -1,24 +1,23 @@
 import React,{Component} from 'react'
 import { Button, Menu, Dropdown, Icon } from 'antd'
-import  Deskimg from './../../../../utils/conmimg/desk.jpg'
-import Livecard from './../../../../components/livecard/livecard'
+import deskimg from './../../../../utils/conmimg/desk.jpg'
+import './courselistcontent.css'
+import Videocard from './../../../../components/videocard/videocard'
 import Mysearchbtn from './../../../../components/mysearchbtn/mysearchbtn'
 import Myselect from './../../../../components/myselect/myselect'
-import './courselistcontent.css'
 
-class Courselistcontent extends Component{
+class Courselistcon extends Component{
     constructor(props){
         super(props)
     }
     render(){
-        const livecardlist=[
-            {key:'car1',src:Deskimg,author:'李明',price:10,flag:false},
-            {key:'car2',src:Deskimg,author:'王磊',price:50,flag:false},
-            {key:'car3',src:Deskimg,author:'小花',price:70,flag:false},
-            {key:'car4',src:Deskimg,author:'jack',price:10,flag:false},
-            {key:'car5',src:Deskimg,author:'rose',price:20,flag:false}
+        const videoAllList=[
+            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
         ]
-        const godetil='/cdetail'
         const selectMes={
             defaultValue:"综合",
             width:'',
@@ -54,10 +53,11 @@ class Courselistcontent extends Component{
                 }
             ]
         }
+        const godetil='/cdetail'
         return(
-            <div className="livecourselist-c">
+            <div className="videoCardList-c">
                 <div>
-                   <div style={{width:'300px',margin:'0 auto'}}> <Mysearchbtn/></div>
+                    <div style={{width:'300px',margin:'0 auto'}}> <Mysearchbtn/></div>
                     <div>
                         <div className="search-advice-c">
                             <span style={{fontSize:'12px',}}>全部课程：</span>
@@ -73,11 +73,11 @@ class Courselistcontent extends Component{
                         </div>
                     </div>
                 </div>
-                <Livecard livecardlist={livecardlist} gopath={godetil}/>
-                <Livecard livecardlist={livecardlist} gopath={godetil}/>
-                <Livecard livecardlist={livecardlist} gopath={godetil}/>
+                <Videocard videoAllList={videoAllList} gopath={godetil}/>
+                <Videocard videoAllList={videoAllList} gopath={godetil}/>
+                <Videocard videoAllList={videoAllList} gopath={godetil}/>
             </div>
         )
     }
 }
-export default Courselistcontent
+export default Courselistcon

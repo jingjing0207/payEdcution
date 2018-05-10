@@ -17,8 +17,7 @@ class Clickplay extends Component{
                     <img src={Top1} alt=""/>
                     <ul className="info-list">
                         <li className="title short-title">
-                            <a href="#" title=""
-                               target="video">java课程</a>
+                           java课程
                         </li>
                         <li className="subtitle"><span>解密spring/springBoot框架开发</span></li>
                     </ul>
@@ -28,8 +27,7 @@ class Clickplay extends Component{
                         <img src={Top2} alt=""/>
                         <ul className="info-list">
                             <li className="title short-title">
-                                <a href="#" title=""
-                                   target="video">react精讲</a>
+                               react精讲
                             </li>
                             <li className="subtitle"><span>解密react/redux/react-touter/fetch</span></li>
                         </ul>
@@ -39,8 +37,7 @@ class Clickplay extends Component{
                             <img src={Top4} alt=""/>
                             <ul className="info-list">
                                 <li className="title short-title">
-                                    <a href="#" title=""
-                                       target="video">ReactNative精讲</a>
+                                    ReactNative精讲
                                 </li>
                                 <li className="subtitle"><span>解密如何快速跨平台的端开发</span></li>
                             </ul>
@@ -49,8 +46,7 @@ class Clickplay extends Component{
                             <img src={Top5} alt=""/>
                             <ul className="info-list">
                                 <li className="title short-title">
-                                    <a href="#" title=""
-                                       target="video">MongoDB精讲</a>
+                                    MongoDB精讲
                                 </li>
                                 <li className="subtitle"><span>配合nodeJS让你成为全栈工程师</span></li>
                             </ul>
@@ -61,8 +57,7 @@ class Clickplay extends Component{
                     <img src={Top3} alt=""/>
                     <ul className="info-list">
                         <li className="title short-title">
-                            <a href="#" title=""
-                               target="video">Android开发精讲</a>
+                            Android开发精讲
                         </li>
                         <li className="subtitle"><span>解密安卓开发高手秘诀</span></li>
                     </ul>

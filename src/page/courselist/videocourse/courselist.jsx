@@ -1,5 +1,8 @@
 import React,{Component} from 'react'
 import { Button, Menu, Dropdown, Icon } from 'antd'
+import Courselistcon from './content/courselistcon'
+import Navbar from './../../../components/navbar/navbar'
+import MyFooter from './../../../components/footer/myfooter'
 
 class Courselist extends Component{
     constructor(props){
@@ -8,7 +11,9 @@ class Courselist extends Component{
     render(){
         return(
             <div>
-                我是视频课程更多列表页面
+                <Navbar/>
+                <Courselistcon/>
+                <MyFooter/>
             </div>
         )
     }

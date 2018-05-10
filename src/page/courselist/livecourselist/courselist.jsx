@@ -1,6 +1,6 @@
 import React,{Component} from 'react'
 import { Button, Menu, Dropdown, Icon } from 'antd'
-import Courselistcontent from './content/courselistcontent'
+import Courselistcontent from './content/courselistconlive'
 import Navbar from './../../../components/navbar/navbar'
 import MyFooter from './../../../components/footer/myfooter'
 
