@@ -1,4 +1,5 @@
 import React,{Component} from 'react'
+import {withRouter} from 'react-router-dom';
 import './clickplay.css'
 import Top1 from './cliclplayimg/top1.png'
 import Top2 from './cliclplayimg/top2.jpg'
@@ -10,10 +11,13 @@ class Clickplay extends Component{
     constructor(props){
         super(props)
     }
+    govideodetil(key){
+        this.props.history.push('/cdetail'+'/'+key)
+    }
     render(){
         return(
             <div className="clickplay-c">
-                <div className="top1-c">
+                <div className="top1-c" onClick={this.govideodetil.bind(this,'java')}>
                     <img src={Top1} alt=""/>
                     <ul className="info-list">
                         <li className="title short-title">
@@ -23,7 +27,7 @@ class Clickplay extends Component{
                     </ul>
                 </div>
                 <div className="middle-c">
-                    <div className="top2-c">
+                    <div className="top2-c" onClick={this.govideodetil.bind(this,'rect')}>
                         <img src={Top2} alt=""/>
                         <ul className="info-list">
                             <li className="title short-title">
@@ -32,8 +36,8 @@ class Clickplay extends Component{
                             <li className="subtitle"><span>解密react/redux/react-touter/fetch</span></li>
                         </ul>
                     </div>
-                    <div className="top45-c">
-                        <div className="top4-c">
+                    <div className="top45-c" >
+                        <div className="top4-c" onClick={this.govideodetil.bind(this,'reactnative')}>
                             <img src={Top4} alt=""/>
                             <ul className="info-list">
                                 <li className="title short-title">
@@ -42,7 +46,7 @@ class Clickplay extends Component{
                                 <li className="subtitle"><span>解密如何快速跨平台的端开发</span></li>
                             </ul>
                         </div>
-                        <div className="top5-c">
+                        <div className="top5-c" onClick={this.govideodetil.bind(this)}>
                             <img src={Top5} alt=""/>
                             <ul className="info-list">
                                 <li className="title short-title">
@@ -53,7 +57,7 @@ class Clickplay extends Component{
                         </div>
                     </div>
                 </div>
-                <div className="top3-c">
+                <div className="top3-c" onClick={this.govideodetil.bind(this,'android')}>
                     <img src={Top3} alt=""/>
                     <ul className="info-list">
                         <li className="title short-title">
@@ -66,4 +70,4 @@ class Clickplay extends Component{
         )
     }
 }
-export default Clickplay
+export default withRouter(Clickplay)

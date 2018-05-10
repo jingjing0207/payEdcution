@@ -1,4 +1,5 @@
 import React,{Component} from 'react'
+import {withRouter} from 'react-router-dom';
 import './videocard.css'
 
 class Videocard  extends Component{
@@ -6,9 +7,7 @@ class Videocard  extends Component{
         super(props)
     }
     govideodetil(key){
-        //this.props.history.push(this.props.gopath+"/"+key)
-        const w=window.open('about:blank');
-        w.location.href=this.props.gopath+"/"+key
+        this.props.history.push(this.props.gopath+"/"+key)
     }
     render(){
         const videoAllList=this.props.videoAllList
@@ -33,4 +32,4 @@ class Videocard  extends Component{
         )
     }
 }
-export default Videocard
+export default withRouter(Videocard)

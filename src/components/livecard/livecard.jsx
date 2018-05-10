@@ -12,7 +12,7 @@ class Livecard extends Component{
      //this.props.history.push(this.props.gopath+"/"+key)
         const w=window.open('about:blank');
         w.location.href=this.props.gopath+"/"+key
-    }
+}
     render(){
         const livecardlist=this.props.livecardlist
         return(
