@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb67f8a-05f2-4226-adf0-7c15a1095e1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/livecard/livecard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/livecard/livecard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,8 +52,8 @@
       <file leaf-file-name="commonheadericon.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+            <state relative-caret-position="344">
+              <caret line="151" column="1" lean-forward="true" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -580,11 +580,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526005423796</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="改动原因：代码合并&#10;提交人：jingjing">
+      <created>1526008571251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526008571251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212793000" />
+    <option name="totallyTimeSpent" value="213072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -661,7 +668,8 @@
     <MESSAGE value="改动原因：video模块的编写&#10;提交人：viyoung" />
     <MESSAGE value="改动原因：对样式的修改&#10;提交人：viyoung" />
     <MESSAGE value="改动原因：二级标题icon的样式修改&#10;提交人：viyoung" />
-    <option name="LAST_COMMIT_MESSAGE" value="改动原因：二级标题icon的样式修改&#10;提交人：viyoung" />
+    <MESSAGE value="改动原因：代码合并&#10;提交人：jingjing" />
+    <option name="LAST_COMMIT_MESSAGE" value="改动原因：代码合并&#10;提交人：jingjing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1041,8 +1049,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+        <state relative-caret-position="344">
+          <caret line="151" column="1" lean-forward="true" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
         </state>
       </provider>
     </entry>
