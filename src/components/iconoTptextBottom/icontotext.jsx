@@ -13,7 +13,7 @@ class Icontotext extends Component{
                 {
                     cardListicon.map((item,index)=>{
                         return(
-                            <div className={index===0?'active':''}
+                            <div className={index===0?'active':'' }
                                 key={item.key}>
                                 <i className="i-web">
                                     <Icon type={item.icon} style={item.color}/>

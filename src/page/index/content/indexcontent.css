@@ -33,3 +33,6 @@
     border-top-right-radius: 7px;
     border-bottom-right-radius: 7px;
 }
+.path-banner div{
+    cursor: pointer;
+}

@@ -13,10 +13,10 @@ class Courselistcon extends Component{
     render(){
         const videoAllList=[
             {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
-            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
-            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
-            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
-            {key:'video1',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video2',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video3',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video4',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
+            {key:'video5',imgsrc:deskimg,title:'react高手进阶',description:'让你和大师一起体会react之美。'},
         ]
         const selectMes={
             defaultValue:"综合",
