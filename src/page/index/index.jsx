@@ -10,9 +10,10 @@ class Liveindex extends Component{
             {key:'nav2',text:'消息'}
         ]
         const userurl='/scenter'
+        const courseUrl='/scourse'
         return(
             <div>
-                <Navbar navson={navson} userurl={userurl}/>
+                <Navbar navson={navson} userurl={userurl} courseUrl={courseUrl} />
                 <Indexcontent/>
                 <MyFooter/>
             </div>

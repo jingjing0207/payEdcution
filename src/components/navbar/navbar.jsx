@@ -16,6 +16,9 @@ class Navbar extends Component {
     gousercenter(){
         this.props.history.push(this.props.userurl)
     }
+    gocourseContent(){
+        this.props.history.push(this.props.courseUrl)
+    }
  render(){
      const phonedowncon=(
          <div>
@@ -41,7 +44,7 @@ class Navbar extends Component {
                        {
                            keytilelist.map((item)=>{
                                return(
-                                   <li key={item.key}>{item.tilename}</li>
+                                   <li key={item.key} onClick={this.gocourseContent.bind(this)}>{item.tilename}</li>
                                )
                            })
                        }

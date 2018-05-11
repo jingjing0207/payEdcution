@@ -9,6 +9,8 @@ import Notfound from './../page/notfound/notfound'
 import Studentcenter from './../page/usercenter/studentcenter/studentcenter'
 import Teachercenter from './../page/usercenter/teachercenter/teachcenter'
 import Videoplayer from './../page/videoplayer/videoplay'
+import StudentStudyCourse from './../page/coursecontent/studentstudycourse/studentstudycourse'
+import TearcherUpCourse from './../page/coursecontent/tearcherupcourse/tearcherupcourse'
 
 class SwitchCom extends Component{
     render(){
@@ -22,6 +24,8 @@ class SwitchCom extends Component{
                         <Route path="/vplay/:videoid" component={Videoplayer}></Route>
                         <Route path="/tcenter" component={Teachercenter}></Route>
                         <Route path="/scenter" component={Studentcenter}></Route>
+                        <Route path="/tcourse" component={TearcherUpCourse}></Route>
+                        <Route path="/scourse" component={StudentStudyCourse}></Route>
                         <Route component={Notfound}></Route>
                     </Switch>
                 </Router>
