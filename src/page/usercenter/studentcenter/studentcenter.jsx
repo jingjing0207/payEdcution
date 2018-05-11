@@ -79,6 +79,7 @@ class Studentcenter extends Component{
             {key:'nav2',text:'消息'}
         ]
         const userurl='/scenter'
+        const courseUrl='/tcourse'
         const currentStateLabel='账户余额：'
         const userType='student'
         const columns= [{
@@ -131,7 +132,7 @@ class Studentcenter extends Component{
         }];
         return(
             <Layout>
-                <Navbar navson={navson} userurl={userurl}/>
+                <Navbar navson={navson} courseUrl={courseUrl} userurl={userurl}/>
                 <div className="personCenter">
                     <Commonheadericon currentStateLabel={currentStateLabel} userType={userType} />
                     <div className="exchangeDetail">

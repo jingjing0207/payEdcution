@@ -135,9 +135,10 @@ export default class Teachcenter extends Component{
             key: 'remark',
         }];
         const gohref='/tcenterlist'
+        const courseUrl='/tcourse'
         return(
             <Layout>
-                <Navbar navson={navson} userurl={userurl}/>
+                <Navbar navson={navson} userurl={userurl} courseUrl={courseUrl}/>
                 <div className="personCenter">
                     <Commonheadericon currentStateLabel={currentStateLabel} userType={userType}/>
                     <div className="payQuestions">

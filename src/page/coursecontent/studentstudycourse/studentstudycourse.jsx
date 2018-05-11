@@ -31,6 +31,7 @@ class Commoncoursecontent extends Component{
             {key:'nav2',text:'消息'}
         ]
         const courseUrl='/scourse'
+        const userurl='/scenter'
         const courseList=[
             {key:'title1',tilename:'学习课程'},
             {key:'title2',tilename:'关注课程'},
@@ -68,7 +69,7 @@ class Commoncoursecontent extends Component{
         const { mode } = this.state
         return(
             <Layout>
-                <Navbar navson={navson} courseUrl={courseUrl}/>
+                <Navbar navson={navson} courseUrl={courseUrl} userurl={userurl}/>
                 <div className="coursePageContent">
                     <div className="courseContent">
                         <div className="sliderCourseBind">

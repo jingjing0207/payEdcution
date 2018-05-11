@@ -28,7 +28,9 @@ export default class Commonheadericon extends Component{
                 <div className="personCenterContent">
                     <div className="personCenter_topOne">
                         <div className="personHeaderPic">
-                            <img src={currentPersonHeaderPic}/>
+                            <div className="perHeaderPicImg">
+                                <img src={currentPersonHeaderPic}/>
+                            </div>
                         </div>
                         <div className="personDetail">
                             <p className="nameLabel">

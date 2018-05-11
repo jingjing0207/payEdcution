@@ -28,6 +28,7 @@ class Studentstudycourse extends Component{
             {key:'nav2',text:'消息'}
         ]
         const courseUrl='/tcourse'
+        const userurl='/scenter'
         const { visible, loading } = this.state;
         const { previewVisible, previewImage, fileList } = this.state;
         const { liveTelecast, handShow } = this.state;
@@ -39,7 +40,7 @@ class Studentstudycourse extends Component{
         );
         return(
             <Layout>
-                <Navbar navson={navson} courseUrl={courseUrl}/>
+                <Navbar navson={navson} courseUrl={courseUrl} userurl={userurl}/>
                 <div className="coursePageContent">
                     <div className="courseContent">
                         <Button type="primary" icon="upload" className="uploadBtn" onClick={this.showModal}>上传课程</Button>

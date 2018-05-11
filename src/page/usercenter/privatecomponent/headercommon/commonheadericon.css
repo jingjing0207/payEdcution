@@ -16,8 +16,8 @@
     background: #ffffff;
 }
 .personHeaderPic{
-    width:11%;
-    height: 100%;
+    /*width:11%;*/
+    /*height: 100%;*/
     margin-right: 2%;
     border-radius: 50%;
     overflow: hidden;
@@ -25,7 +25,11 @@
     justify-content: center;
     align-items: center;
 }
-.personHeaderPic img{
+.perHeaderPicImg{
+    width: 136px;
+    height: 136px;
+}
+.perHeaderPicImg img{
     width: 100%;
     height: 100%;
 }
