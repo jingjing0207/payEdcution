@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb67f8a-05f2-4226-adf0-7c15a1095e1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/mousemenum/mousemenum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mousemenum/mousemenum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/livecard/livecard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/livecard/livecard.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,38 +16,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="clickplay.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/index/content/privatecomponent/clickplay/clickplay.css">
+      <file leaf-file-name="myselect.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/myselect/myselect.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="352">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secondtileright.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/secondtileright/secondtileright.css">
+      <file leaf-file-name="courselist.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/courselist.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+            <state relative-caret-position="330">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mousemenum.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/mousemenum/mousemenum.jsx">
+      <file leaf-file-name="courselistcontent.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/content/courselistcontent.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="126">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mousemenum.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/mousemenum/mousemenum.css">
+      <file leaf-file-name="commonheadericon.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="300">
+              <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commonheadericon.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="75" column="47" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commoncoursecontent.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/coursecontent/privatecomponent/coursecontent/commoncoursecontent.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tearcherupcourse.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/coursecontent/tearcherupcourse/tearcherupcourse.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="livecard.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/livecard/livecard.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1264">
+              <caret line="71" column="1" lean-forward="true" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentstudycourse.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/coursecontent/studentstudycourse/studentstudycourse.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-656">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -56,60 +107,12 @@
       <file leaf-file-name="courselistcon.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/content/courselistcon.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="340">
+              <caret line="68" column="46" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="46" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#1025#1911#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="indexcontent.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/index/content/indexcontent.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icontotext.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/iconoTptextBottom/icontotext.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="indexcontent.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/index/content/indexcontent.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myfooter.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/footer/myfooter.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/footer/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -152,6 +155,7 @@
       <find>myselect-c</find>
       <find>.slider .bartile-c i</find>
       <find>.menuContent</find>
+      <find>.ant-avatar</find>
     </findStrings>
     <dirStrings>
       <dir>E:\code\fontendcode\live\src\page\usercenter</dir>
@@ -168,8 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/page/usercenter/usercenter.css" />
-        <option value="$PROJECT_DIR$/src/page/usercenter/usercenter.jsx" />
         <option value="$PROJECT_DIR$/src/page/usercenter/studentcenter/studentcenter.css" />
         <option value="$PROJECT_DIR$/src/page/usercenter/studentcenter/studentcenter.jsx" />
         <option value="$PROJECT_DIR$/src/page/usercenter/teachercenter/teachcenter.jsx" />
@@ -219,6 +221,8 @@
         <option value="$PROJECT_DIR$/src/page/index/content/privatecomponent/clickplay/clickplay.css" />
         <option value="$PROJECT_DIR$/src/components/secondtileright/secondtileright.css" />
         <option value="$PROJECT_DIR$/src/components/mousemenum/mousemenum.css" />
+        <option value="$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.jsx" />
+        <option value="$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.css" />
       </list>
     </option>
   </component>
@@ -250,36 +254,119 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="live" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live" type="462c0819:PsiDirectoryNode" />
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="live" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live" type="462c0819:PsiDirectoryNode" />
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="live" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="live" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live" type="462c0819:PsiDirectoryNode" />
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="mousemenum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mysearchbtn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="myselect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="coursecontent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="coursecontent" type="462c0819:PsiDirectoryNode" />
+              <item name="privatecomponent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="coursecontent" type="462c0819:PsiDirectoryNode" />
+              <item name="privatecomponent" type="462c0819:PsiDirectoryNode" />
+              <item name="coursecontent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="coursecontent" type="462c0819:PsiDirectoryNode" />
+              <item name="studentstudycourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="coursecontent" type="462c0819:PsiDirectoryNode" />
+              <item name="tearcherupcourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="usercenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="usercenter" type="462c0819:PsiDirectoryNode" />
+              <item name="privatecomponent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="usercenter" type="462c0819:PsiDirectoryNode" />
+              <item name="privatecomponent" type="462c0819:PsiDirectoryNode" />
+              <item name="headercommon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payEdcution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payEdcution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,6 +378,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\payEdcution\src\components\livecard" />
+      <recent name="E:\code\fontendcode\live\src\page\courselist\videocourse" />
+      <recent name="E:\code\fontendcode\live\src\utils\conmimg" />
+      <recent name="E:\code\fontendcode\live\src\page\index\content\privatecomponent\clickplay\cliclplayimg" />
+      <recent name="E:\code\fontendcode\live\src\utils\testvideo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\fontendcode\live\src\page\courselist\videocourse\content" />
       <recent name="E:\code\fontendcode\live\src\page\courselist\livecourselist\content" />
@@ -298,12 +392,118 @@
       <recent name="E:\code\fontendcode\live\src\page\usercenter\teachercenter" />
       <recent name="E:\code\fontendcode\live\src\page" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\code\fontendcode\live\src\page\courselist\videocourse" />
-      <recent name="E:\code\fontendcode\live\src\utils\conmimg" />
-      <recent name="E:\code\fontendcode\live\src\page\index\content\privatecomponent\clickplay\cliclplayimg" />
-      <recent name="E:\code\fontendcode\live\src\utils\testvideo" />
-    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/components/mousemenum/mousemenum.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/components/secondtileright/secondtileright.css</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,13 +584,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211764000" />
+    <option name="totallyTimeSpent" value="212793000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21604449" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25186846" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50119144" side_tool="true" weight="0.20955883" />
@@ -398,16 +598,27 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988086" visible="true" weight="0.29834256" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988086" weight="0.5625" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21604449" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3296501" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50119144" side_tool="true" weight="0.20955883" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290441" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988086" visible="true" weight="0.29834256" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,55 +669,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/checkmore/checkmore.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/DropdownButton/DropdownButton.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="20" lean-forward="true" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/carousel/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/carousel/carousel.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/checkmore/checkmore.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/usercenter/studentcenter/studentcenter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/usercenter/teachercenter/teachcenter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/centertitle/centertile.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -614,15 +776,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/index/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="212">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/navbar/navbar.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        <state relative-caret-position="-250">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -649,8 +814,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/myselect/myselect.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="352">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -689,13 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/livecard/livecard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/courselist/livecourselist/content/courselistcontent.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -703,28 +864,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/content/courselistcontent.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/courselist/livecourselist/content/courselistconlive.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
           <caret line="75" column="60" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#952#1838#0" />
-            <element signature="e#1918#2779#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/courselist.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="330">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
@@ -750,16 +899,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/content/courselistcon.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="340">
+          <caret line="68" column="46" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="46" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <element signature="e#1025#1911#0" />
@@ -771,9 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -830,6 +973,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/livecard/livecard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1264">
+          <caret line="71" column="1" lean-forward="true" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/coursecontent/studentstudycourse/studentstudycourse.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/coursecontent/studentstudycourse/studentstudycourse.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-656">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/coursecontent/privatecomponent/coursecontent/commoncoursecontent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/coursecontent/privatecomponent/coursecontent/commoncoursecontent.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/coursecontent/tearcherupcourse/tearcherupcourse.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/courselist/videocourse/content/courselistcontent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="75" column="47" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/usercenter/privatecomponent/headercommon/commonheadericon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
         </state>
       </provider>
     </entry>
